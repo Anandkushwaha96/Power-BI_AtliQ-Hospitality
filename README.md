@@ -1,6 +1,6 @@
 # REVENUE ANALYSIS - ATLIQ HOSPITALITY
 
-### Live Dashboard:https://tinyurl.com/anans3
+### Live Dashboard:https://tinyurl.com/anandku23
 
 
 
