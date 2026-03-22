@@ -1,8 +1,7 @@
 # REVENUE ANALYSIS - ATLIQ HOSPITALITY
 
-### Live Dashboard:https://www.novypro.com/project/atliq-hospitality--1
-### novypro portfolio:https://www.novypro.com/profile_projects/yatinlokhande
-### Codebasics Portfolio: https://codebasics.io/portfolio/Yatin-Govinda-Lokhande
+### Live Dashboard:https://app.powerbi.com/view?r=eyJrIjoiZDRkZjAwZmEtYmM3NC00MWNkLWE1NjYtM2RiNGQwYTQxYmVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 
 
 # Synopsis
@@ -95,17 +94,6 @@ Total Bookings : To get the total number of bookings happened: Formula : Total B
 As, there are 26 measures. To check the detail of all measures visit metrics_list.xlxs
 
 
-__DASHBOARDING__
-
-![AtliQ Hospitality 1](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/ee804a91-5ede-41b8-84dd-387c05548e80)
-
-![AtliQ Hospitality 4](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/eb0f61be-d1c8-4db3-aa7d-fa650721684b)
-
-![AtliQ Hospitality 2](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/41c1e559-e7eb-440c-936a-dee54467665c)
-
-![AtliQ Hospitality 3](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/47aadc80-d19d-4f25-8ae4-c69a46b3bf21)
-
-
 __INSIGHTS__
 
 * Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
@@ -118,9 +106,9 @@ __INSIGHTS__
 
 
 ## 🔗 Links
-[![novypro portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.novypro.com/profile_projects/yatinlokhande)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatinlokhande/)
-[![Codebasics portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Yatin-Govinda-Lokhande)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandkushwaha23/?skipRedirect=true)
+
 
 
 
